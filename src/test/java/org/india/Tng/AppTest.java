@@ -37,6 +37,7 @@ public class AppTest
 
     public void testApp()
     {
+    	System.out.println("vignesh");
         assertTrue( true );
     }
 }
