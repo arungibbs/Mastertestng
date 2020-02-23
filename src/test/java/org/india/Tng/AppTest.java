@@ -29,7 +29,9 @@ public class AppTest
 
     public static Test suite()
     {
+    	 System.out.println("Arun");
         return new TestSuite( AppTest.class );
+  
     }
 
 
